@@ -24,7 +24,7 @@ phases:
   artifacts:
     files:
     - 'build/*'
-  name: demoartifact-howard
+    name: demoartifact-howard
       
       
 
